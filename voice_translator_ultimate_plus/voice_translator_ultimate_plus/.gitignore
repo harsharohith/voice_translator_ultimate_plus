@@ -1,0 +1,19 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.wav
+*.mp3
+*.bak
+output.*
+*.spec
+dist/
+build/
+*.egg-info/
+.env
+.idea/
+.vscode/
+models/
+logs/
